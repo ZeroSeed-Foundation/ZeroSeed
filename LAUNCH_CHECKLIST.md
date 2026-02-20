@@ -1,4 +1,4 @@
-# Zero Seed: Launch & Growth — Running Document
+# Zero Seed: Launch Checklist
 
 A single place to track what’s needed to **launch** and **grow** Zero Seed. Update this doc as things get done or new tasks appear. Think of it as the mission control checklist (minus the rocket fuel).
 
@@ -90,7 +90,18 @@ Things that help the initiative run and scale without relying on a single bottle
 
 ---
 
-## 5. Growth & Movement
+## 5. Research & Learning
+
+*Mini research project: 7–10 interviews with thinkers/doers across geographies (motivations, ideation, action, tooling gaps); optional prototype feedback in final 5–10 min; target completion end of March. See full Research Plan for participants, questions, and areas to capture.*
+
+| Task | Status | Notes |
+|------|--------|--------|
+| **Synthesize research and feed into Zero Seed** | ☐ | Map interview findings (motivations, how people ideate/act, tooling gaps, friction) into product roadmap, messaging, and onboarding so the initiative is informed by real practice |
+| **Document how research informs the initiative** | ☐ | Decide where findings live, who owns synthesis, and how they flow into roadmap/vision/positioning so the work doesn’t sit in a silo |
+
+---
+
+## 6. Growth & Movement
 
 Beyond “it works” — so more people can find and join.
 
@@ -104,11 +115,11 @@ Beyond “it works” — so more people can find and join.
 
 ---
 
-## 6. Quick Reference — Key Documents
+## 7. Quick Reference — Key Documents
 
 | Document | Location | Purpose |
 |----------|----------|---------|
-| **This doc** | ZeroSeedSK/LAUNCH_AND_GROWTH.md | Launch & growth task list; collaborator “start here” pointer |
+| **This doc** | ZeroSeedSK/LAUNCH_CHECKLIST.md | Launch & growth task list; collaborator “start here” pointer |
 | **Structural plan & product roadmap** | ZeroSeedSK/ZeroSeed_Report_v2.md | What Zero Seed is; product/infra/policy/governance roadmaps |
 | **Vision** | ZeroSeedSK/ZeroSeedVisionDraft.md | Deeper vision, why now, principles |
 | **Production readiness** | zeroseed/PRODUCTION-READINESS.md | Legal, security, i18n, a11y, deployment checklist |
