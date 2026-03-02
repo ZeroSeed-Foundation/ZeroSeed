@@ -3,7 +3,7 @@
 ## A Constellation for Real-World Coordination
 
 ### Structural Plan (Draft) — Version 2  
-*Document date: February 2025. This version adds a filled-in structural plan, platform alignment, and a scaffold for product, infrastructure, policy, and governance. The original working report is preserved as sections 1–10; new material is in the Structural Plan (Part B) and the revised Open Questions (§9).*
+*Document date: February 2026. This version adds a filled-in structural plan, platform alignment, and a scaffold for product, infrastructure, policy, and governance. The original working report is preserved as sections 1–10; new material is in the Structural Plan (Part B) and the revised Open Questions (§9).*
 
 ---
 
